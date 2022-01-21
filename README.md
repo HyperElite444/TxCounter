@@ -1,7 +1,7 @@
-___TxCounter by MR.THENUX___
+# ___TxCounter by MR.THENUX___
 
 *Type This on Linux Terminal*👇🏻
 
 _$ git clone https://github.com/ThenuxGithub/TxCounter <br>
-$ cd TxCounter
-$ python TxC.py_
+ $ cd TxCounter <br>
+ $ python TxC.py_
