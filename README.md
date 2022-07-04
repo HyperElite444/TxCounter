@@ -23,6 +23,12 @@
 <li><i>python TxC.py</i></li>
 </ul>
 
+### LANGUAGE
+
+<ul>
+<li><i>PYTHON</i></li>
+</ul>
+
 ### Contact For Contribute & Issues 
 
                                       EMAIL FOR ISSUES AND CONTRIBUTE : mrthenux@gmail.com
