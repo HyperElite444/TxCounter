@@ -26,7 +26,7 @@
 ### LANGUAGE
 
 <ul>
-<li><i>PYTHON</i></li>
+<li><i>Python</i></li>
 </ul>
 
 ### Contact For Contribute & Issues 
